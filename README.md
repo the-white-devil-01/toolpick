@@ -1,17 +1,14 @@
-# toolpick
-It is to pick repositories without coming to github
 <p align="center">
-<a href="https://facebook.com/shuaibmohammadyasin100"></a>
+<a href="https://Facebook.com/shuaibmohammadyasin100">contact me on facebook</a>
 </p>
 <p align="center">
-<a href="https://Instagram.com/mohammadyasinshuaib"></a
-
+<a href="https://Instagram.com/mohammadyasinshuaib">follow me on instagram<a>
 </p>
 
 
 ## ABOUT TOOL :
 
-tool picker is a BASH based Tools installer Tool, Its used to install tool on few clicks
+Tool picker is a BASH based Tools installer Tool to download T33kay-X tools Its used to install tool on few clicks
 
 ## AVAILABLE ON :
 
@@ -29,18 +26,18 @@ tool picker is a BASH based Tools installer Tool, Its used to install tool on fe
 
 ## INSTALLATION [Termux] :
 
-* `apt-get update `
-* `apt-get upgrade `
-* `pkg install python `
-* `pkg install python2 `
-* `pkg install git `
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/whitedevil/toolpicker`
+* `git clone https://github.com/the-white-devil-01/toolpicker`
 * `cd $HOME`
 * `ls`
 * `cd toolpicker`
-* `chmod 777 toolpicker.sh`
-* `bash toolpicker.sh`
+* `chmod 777 toolpick.sh`
+* `bash toolpick.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
@@ -49,4 +46,4 @@ tool picker is a BASH based Tools installer Tool, Its used to install tool on fe
 
 
 ## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education WhiteDevil will not be responsible in such cases.***
+***This tool is only for educational purpose. If you use this tool for other purposes except education White Devil will not be responsible in such cases.***
