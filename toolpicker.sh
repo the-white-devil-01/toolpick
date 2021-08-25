@@ -10,8 +10,8 @@ Projects
 Wiki
 Security
 Insights
-the-white-devil-01/toolpicker.sh
-@The-white-devil-01
+whitedevil/toolpicker.sh
+@whitedevil
 
       echo $cyan'
 ====================================================
