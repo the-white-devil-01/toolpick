@@ -32,7 +32,7 @@ Tool picker is a BASH based Tools installer Tool to download T33kay-X tools Its 
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/the-white-devil-01/toolpicker`
+* `git clone https://github.com/the-white-devil-01/toolpicker.git`
 * `cd $HOME`
 * `ls`
 * `cd toolpicker`
